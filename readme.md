@@ -9,3 +9,12 @@
 
 ### 网站地址
 http://teach.ynou.edu.cn/
+
+
+### 学习效果
+
+
+
+
+
+![image](images/WX20190427-230925.png)
